@@ -1,18 +1,3 @@
-// :SHOW:1
-// :CATEGORY:Light
-// :NAME:Rene Free Lighting System
-// :AUTHOR:Rene10957 Resident
-// :KEYWORDS: light,lamp,lighting light
-// :CREATED:2015-06-11 14:41:50
-// :EDITED:2016-03-30  20:29:28
-// :ID:1079
-// :NUM:1785
-// :REV:2.1
-// :WORLD:Opensim
-// :DESCRIPTION:
- // Light Switch for region
-// :CODE:
-// :LICENSE: CC0 (Public Domain)
 // Rene's Free Lighting System - Light Switch
 //
 // Author: Rene10957 Resident
