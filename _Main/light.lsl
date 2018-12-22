@@ -1,19 +1,3 @@
-// :SHOW:1
-// :CATEGORY:Light
-// :NAME:Rene Free Lighting System
-// :AUTHOR:Rene10957 Resident
-// :KEYWORDS: light,lamp,lighting light
-// :CREATED:2015-06-11 14:41:42
-// :EDITED:2016-03-30  20:29:27
-// :ID:1079
-// :NUM:1782
-// :REV:2.0
-// :WORLD:Opensim
-// :DESCRIPTION:
-// Light Bulb for Menu-controlled lighting system with many features
-// :CODE:
-// :LICENSE: CC0 (Public Domain)
-
 // Rene's Free Lighting System - Light Bulb
 //
 // Author: Rene10957 Resident
